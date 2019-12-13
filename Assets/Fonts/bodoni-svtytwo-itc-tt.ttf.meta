@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 1133224cde5003243a7d96f36f9052c5
+timeCreated: 1508108458
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Bodoni SvtyTwo ITC TT
+  fontNames:
+  - Bodoni SvtyTwo ITC TT
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
